@@ -1,5 +1,5 @@
 # Model-and-data
-The potential folder includes the MTP potential and training dataset.
+The potential folder includes the trained MTP and training dataset. The potential is for Mo-Nb-Ta-V-W quinary system.
 
 The model folder includes XGBoost model for CRSS predict of both dislocation types.
 

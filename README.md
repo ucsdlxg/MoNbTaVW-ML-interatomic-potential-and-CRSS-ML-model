@@ -1,4 +1,6 @@
 # Model-and-data
 The potential folder includes the MTP potential and training dataset.
 
-The XGBoost model folder includes both model for CRSS forecast, and input is described in 
+The model folder includes XGBoost model for CRSS predict of both dislocation types.
+
+The CRSS values folder includes all the specific CRSS for each dislocation in different systems. Structure files is too big to share on github, and we are glad to share them if you contact us.
